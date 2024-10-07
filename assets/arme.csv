@@ -1,0 +1,5 @@
+nom;description;type;qualite
+Epee Courte;Une epee courte tranchante;typeEpeeCourte;qualite["commun"]!!
+Lance;Une lance pointue;typeLance;qualites["rare"]!!
+Dague;Une dague extremement pointue;typeDague;qualites["epic"]!!
+Marteau;Un marteau legendaire pourfendeur de troll;typeMarteau;qualites["legendaire"]!!
